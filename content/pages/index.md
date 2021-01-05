@@ -7,8 +7,8 @@ sections:
     image_alt: App preview
     title: Bienvenido a Python Panamá
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+      Somos una comunidad comprometidas al alza del índice de alfabetismo en
+      Python. Es nuestro deseo que todos hablemos Python.
     actions:
       - label: Learn More
         url: /features
