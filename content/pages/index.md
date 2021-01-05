@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/good-owl.PNG
     image_alt: App preview
-    title: Bienvenido a Python Panamá
+    title: Python Panamá
     content: >-
       Somos una comunidad comprometidas al alza del índice de alfabetismo en
       Python. Es nuestro deseo que todos hablemos Python.
