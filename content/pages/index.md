@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/pyton_panama_icono.png
+    image: images/good-owl.PNG
     image_alt: App preview
     title: Bienvenido a Python Panamá
     content: >-
