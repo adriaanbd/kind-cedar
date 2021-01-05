@@ -7,8 +7,8 @@ sections:
     image_alt: App preview
     title: Python Panamá
     content: >-
-      Somos una comunidad comprometidas al alza del índice de alfabetismo en
-      Python. Es nuestro deseo que todos hablemos Python.
+      Una comunidad comprometidas al alza del índice de alfabetismo en Python.
+      Es nuestro deseo que todos hablemos Python.
     actions:
       - label: Learn More
         url: /features
