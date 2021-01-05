@@ -99,7 +99,7 @@ sections:
     type: section_posts
     background: gray
     title: Latest Posts
-meta_title: Stackbit Azimuth Theme
+meta_title: Python Panamá
 meta_description: El hogar de Python Panamá
 layout: landing
 ---
